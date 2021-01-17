@@ -1,8 +1,8 @@
 [
     {
         "id": "1",
-        "name": "accent chair",
-        "price": 49.99,
+        "name": "cadeira de acento",
+        "price": 249.99,
         "image": "https://dl.airtable.com/.attachmentThumbnails/e8bc3791196535af65f40e36993b9e1f/438bd160",
         "colors": [
             "#ff0000",
