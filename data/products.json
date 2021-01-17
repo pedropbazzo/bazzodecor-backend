@@ -1,8 +1,8 @@
 [
     {
         "id": "1",
-        "name": "cadeira de acento",
-        "price": 249.99,
+        "name": "cadeira de acento a partir de",
+        "price": 2500,
         "image": "https://dl.airtable.com/.attachmentThumbnails/e8bc3791196535af65f40e36993b9e1f/438bd160",
         "colors": [
             "#ff0000",
@@ -17,7 +17,7 @@
     {
         "id": "recEHmzvupvT8ZONH",
         "name": "albany sectional",
-        "price": 109999,
+        "price": 500,
         "image": "https://dl.airtable.com/.attachmentThumbnails/0be1af59cf889899b5c9abb1e4db38a4/d631ac52",
         "colors": [
             "#000",
@@ -42,8 +42,8 @@
     },
     {
         "id": "recd1jIVIEChmiwhe",
-        "name": "Poltrona em Suede",
-        "price": 12599,
+        "name": "Poltrona em Suede a partir de ",
+        "price": 15000,
         "image": "https://dl.airtable.com/.attachmentThumbnails/530c07c5ade5acd9934c8dd334458b86/cf91397f",
         "colors": [
             "#000",
@@ -211,7 +211,7 @@
     },
     {
         "id": "recroK1VD8qVdMP5H",
-        "name": "suede armchair",
+        "name": "Poltrona em Suede",
         "price": 15999,
         "image": "https://dl.airtable.com/.attachmentThumbnails/1cf03bfcee117bd92273d996a82a1534/47ef57c7",
         "colors": [
