@@ -288,5 +288,20 @@
         "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge",
         "category": "kitchen",
         "shipping": true
+    },
+    {
+        "id": "531845",
+        "name": "Conjuntos para Área Externa",
+        "price": "",
+        "image": "https://staticmobly.akamaized.net/p/Mobly-Conjunto-para-C381rea-Externa-Bela-Marrom-2590-395355-1-zoom.jpg",
+        "featured": true,
+        "colors": [
+            "#ffb900",
+            "#ff0000"
+        ],
+        "company": "mobly",
+        "description": "Sofá: Altura 68 cm, Largura 172 cm, Profundidade 70 cm ; Cadeira: Altura 68 cm, Largura 68 cm, Profundidade 68 cm ; Mesa: Altura 37.5 cm, Largura 51 cm, Profundidade 60 cm; Puff: Altura 31 cm, Largura 60 cm, Profundidade 60 cm; Vidro: 5 mm",
+        "category": "kitchen",
+        "shipping": true
     }
 ]
