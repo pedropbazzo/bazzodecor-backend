@@ -34,6 +34,8 @@ describe('Products', () => {
   * Test for /GET
   */
   describe('/GET product', () => {
+    res.setHeader('Acess-Control-Allow-Origin', 'https://bazzodecor.pedropbazzo.vercel.app/')
+    res.send('Lista')
     it('it should GET all the products', done => {
       chai.request(server)
         .get('/products')
