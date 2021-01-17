@@ -1,0 +1,17 @@
+[
+    {
+        "id": "1",
+        "name": "Airpods Wireless Bluetooth Headphones",
+        "price": 49.99,
+        "image": "https://dl.airtable.com/.attachmentThumbnails/e8bc3791196535af65f40e36993b9e1f/438bd160",
+        "colors": [
+            "#ff0000",
+            "#00ff00",
+            "#0000ff"
+        ],
+        "company": "Marcos",
+        "description": "BLABABBABABABBA",
+        "category": "office",
+        "shipping": true
+    }
+]
