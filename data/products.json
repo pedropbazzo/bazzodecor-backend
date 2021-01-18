@@ -303,5 +303,21 @@
         "description": "Sofá: Altura 68 cm, Largura 172 cm, Profundidade 70 cm ; Cadeira: Altura 68 cm, Largura 68 cm, Profundidade 68 cm ; Mesa: Altura 37.5 cm, Largura 51 cm, Profundidade 60 cm; Puff: Altura 31 cm, Largura 60 cm, Profundidade 60 cm; Vidro: 5 mm",
         "category": "kitchen",
         "shipping": true
+    },
+    {
+        "id": "531845",
+        "name": "Banqueta",
+        "price": "",
+        "image": "https://raw.githubusercontent.com/pedropbazzo/uploaddefotosbazzodecor/main/puff-paulina.jpeg",
+        "featured": true,
+        "colors": [
+            "#ffb900",
+            "#ff0000"
+        ],
+        "company": "mobly",
+        "description": "",
+        "category": "kitchen",
+        "shipping": true
     }
 ]
+
