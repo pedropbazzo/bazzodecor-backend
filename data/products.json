@@ -1,19 +1,5 @@
 [
     {
-        "id": "1",
-        "name": "cadeira de acento a partir de",
-        "image": "https://dl.airtable.com/.attachmentThumbnails/e8bc3791196535af65f40e36993b9e1f/438bd160",
-        "colors": [
-            "#ff0000",
-            "#00ff00",
-            "#0000ff"
-        ],
-        "company": "Marcos",
-        "description": "BLABABBABABABBA",
-        "category": "office",
-        "shipping": true
-    },
-    {
         "id": "recEHmzvupvT8ZONH",
         "name": "albany sectional",
         "image": "https://dl.airtable.com/.attachmentThumbnails/0be1af59cf889899b5c9abb1e4db38a4/d631ac52",
