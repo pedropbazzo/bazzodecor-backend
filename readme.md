@@ -1,8 +1,9 @@
-# Vanilla Node REST API
+# Node REST API
 
-> Full CRUD REST API using Node.js with no framework
+> 
+API CRUD REST completa usando Node.js sem estrutura
 
-This is for learning/experimental purposes. In most cases, you would use something like Express in a production project
+Isso é para fins de aprendizagem / experimentais. Na maioria dos casos, você usaria algo como Express em um projeto de produção
 
 ```
 # Routes
@@ -14,7 +15,7 @@ DELETE   /products/:id
 
 ```
 
-## Usage
+## Uso
 
 ```
 # Install dependencies
@@ -30,4 +31,4 @@ npm start
 yarn start
 ```
 
-Feel free to add to this and create a PR. I plan on creating a better router, but if you'd like to do that, feel free
+Sinta-se à vontade para adicionar informações e criar um PR. Estou pensando em criar um roteador melhor, mas se você quiser fazer isso, fique à vontade. < sz > </>
